@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Windings-Lab
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in Game Developing and Programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on AAA, Indie, Unity3D game projects

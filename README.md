@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton
 - 👀 I’m interested in Game Developing and Programming
 - 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on AAA, Indie, Unity3D game projects
+- 💞️ I’m looking to collaborate on AAA, Indie, Unity3D, UE game projects
 - 📫 How to reach me janton20001@gmail.com
 
 <!---

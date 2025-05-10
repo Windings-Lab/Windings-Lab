@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Anton
-- 👀 I’m interested in Game Developing and Programming
-- 🌱 I’m currently learning C++ Game Framworks like SDL and learning Graphical Programming using OpenGL
-- 💞️ I’m looking to collaborate on AAA, Indie, Unreal Engine, C++ game projects
+- 👋 Hi, this is my github portfolio presentation
+- 👀 Here you can look at my different pinned projects or my history of commits
+- 🌱 I'm always learn something new
+- 💞️ I’m looking to collaborate on different projects
 
 <!---
 Windings-Lab/Windings-Lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
